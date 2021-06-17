@@ -25,7 +25,6 @@ Vue.use(VueRouter);
 
 Vue.component('example-component', require('./components/ExampleComponent.vue').default);
 Vue.component('admin-component', require('./components/admin/IndexComponent.vue').default);
-Vue.component('admin-sidebar', require('./components/admin/Sidebar.vue').default);
 Vue.component('admin-create', require('./components/admin/CreateProduct.vue').default);
 Vue.component('admin-index', require('./components/App.vue').default);
 

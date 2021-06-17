@@ -5508,7 +5508,6 @@ Vue.use(vue_router__WEBPACK_IMPORTED_MODULE_2__.default);
 
 Vue.component('example-component', __webpack_require__(/*! ./components/ExampleComponent.vue */ "./resources/js/components/ExampleComponent.vue").default);
 Vue.component('admin-component', __webpack_require__(/*! ./components/admin/IndexComponent.vue */ "./resources/js/components/admin/IndexComponent.vue").default);
-Vue.component('admin-sidebar', Object(function webpackMissingModule() { var e = new Error("Cannot find module './components/admin/Sidebar.vue'"); e.code = 'MODULE_NOT_FOUND'; throw e; }()).default);
 Vue.component('admin-create', __webpack_require__(/*! ./components/admin/CreateProduct.vue */ "./resources/js/components/admin/CreateProduct.vue").default);
 Vue.component('admin-index', __webpack_require__(/*! ./components/App.vue */ "./resources/js/components/App.vue").default);
 /**
