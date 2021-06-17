@@ -29,7 +29,7 @@
                                 </div>
                                 <div class="form-group">
                                     <label>Description</label>
-                                    <input
+                                    <textarea
                                     type="text"
                                     class="form-control"
                                     v-model="product.description"

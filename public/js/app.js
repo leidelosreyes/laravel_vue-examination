@@ -104661,7 +104661,7 @@ var render = function() {
                             _c("div", { staticClass: "form-group" }, [
                               _c("label", [_vm._v("Description")]),
                               _vm._v(" "),
-                              _c("input", {
+                              _c("textarea", {
                                 directives: [
                                   {
                                     name: "model",
@@ -104906,7 +104906,7 @@ var render = function() {
                     _c("div", { staticClass: "form-group" }, [
                       _c("label", [_vm._v("Description")]),
                       _vm._v(" "),
-                      _c("input", {
+                      _c("textarea", {
                         directives: [
                           {
                             name: "model",
